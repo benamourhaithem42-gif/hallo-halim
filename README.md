@@ -1,29 +1,52 @@
-# halimhalim22
-My personal project for learning and development.
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
-📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+<h1 align="center">⚡ Hey, I'm Halim</h1>
+
+<h3 align="center">
+💻 Programmer | 🚀 Tech Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+%26+Building+Every+Day;Turning+Ideas+Into+Code" alt="Typing SVG" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 👋 Hi, I'm **Halim**
+- 💻 Interested in programming and technology
+- 🚀 Exploring new tools and technologies
+- 📚 Always learning and improving my skills
+- 🎯 Working towards building useful digital projects
+
+### 🛠️ Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" alt="Technology icons" />
+</p>
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=halimhalim22&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimhalim22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=halimhalim22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Keep learning. Keep building. Keep growing. ✨</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
